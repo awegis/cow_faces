@@ -50,7 +50,6 @@ python main.py --weights best.pt --source data/test_images/
 
 Telegram
 Екатерина: @aeeegis
-Тимофей: @nyancoeh
 
 ## Ссылка на приложение
 https://github.com/mishgan325/CowNose
